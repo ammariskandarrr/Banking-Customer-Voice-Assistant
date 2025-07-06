@@ -1,0 +1,7 @@
+groq
+gradio
+chromadb
+sentence-transformers
+langchain-community
+openai
+python-dotenv
