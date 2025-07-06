@@ -1,7 +1,6 @@
-groq
-gradio
-chromadb
-sentence-transformers
-langchain-community
-openai
-python-dotenv
+groq==0.5.0
+gradio==4.13.0
+chromadb==0.4.22
+sentence-transformers==2.2.2
+langchain-community==0.0.29
+openai==1.12.0
